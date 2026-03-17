@@ -1,0 +1,9 @@
+{
+  "serviceName": "Space travel company",
+  "useServiceNavigation": true,
+  "plugins": {
+    "govuk-frontend": {
+      "rebrand": true
+    }
+  }
+}
